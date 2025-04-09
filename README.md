@@ -2,11 +2,15 @@
 
 A sleek, responsive Weather Dashboard built using **React**, **Tailwind CSS**, and the **OpenWeatherMap API**. It allows users to search for any city and get current weather details along with a 5-day forecast.
 
-📸 Screenshots
-✅ Desktop View
-<img src="./public/screenshot.png" width="600"/>
-📱 Mobile View
-<img src="./public/ss2.png" width="300"/>
+## 📸 Screenshots
+
+✅ Mobile View  
+<img src="https://shivam-8200.github.io/weatherapp/screenshot.png" width="300"/>
+
+📱 Desktop View  
+<img src="https://shivam-8200.github.io/weatherapp/ss2.png" width="600"/>
+
+---
 
 ## 🔗 Live Demo
 
