@@ -4,9 +4,9 @@ A sleek, responsive Weather Dashboard built using **React**, **Tailwind CSS**, a
 
 📸 Screenshots
 ✅ Desktop View
-<img src="./public/Screenshot 2025-04-09 082207.png" width="600"/>
+<img src="./public/screenshot.png.png" width="600"/>
 📱 Mobile View
-<img src="./public/Screenshot 2025-04-09 082405.png" width="300"/>
+<img src="./public/ss2.png.png" width="300"/>
 
 ## 🔗 Live Demo
 
